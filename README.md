@@ -10,16 +10,6 @@ In case you still want to use this functionality in Laravel, you can have a look
 
 ## Install
 Install this package through Composer:
-include in composer.json
-```
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/mistery23/eloquent-composite-primary-keys"
-        }
-    ],
-```
-then
 ```
 composer require mistery23/eloquent-composite-primary-keys
 ```
