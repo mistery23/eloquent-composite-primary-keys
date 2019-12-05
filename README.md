@@ -29,7 +29,7 @@ Use the trait on the Eloquent model you wish to have composite primary keys on:
 namespace App;
 
 use Illuminate\Database\Eloquent\Model;
-use CoenJacobs\EloquentCompositePrimaryKeys\HasCompositePrimaryKey;
+use Mistery23\EloquentCompositePrimaryKeys\HasCompositePrimaryKey;
 
 class Product extends Model
 {
