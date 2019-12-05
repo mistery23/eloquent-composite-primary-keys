@@ -1,5 +1,6 @@
 {
     "name": "mistery23/eloquent-composite-primary-keys",
+    "homepage": "https://github.com/mistery23/eloquent-composite-primary-keys",
     "description": "Offers composite primary keys on Eloquent models",
     "keywords":
     [
