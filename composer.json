@@ -1,8 +1,16 @@
 {
     "name": "coenjacobs/eloquent-composite-primary-keys",
     "description": "Offers composite primary keys on Eloquent models",
+    "keywords":
+    [
+        "eloquent",
+        "model",
+        "laravel",
+        "relations"
+    ],
     "type": "library",
     "license": "MIT",
+    "version": "1.0.1",
     "authors": [
         {
             "name": "Coen Jacobs",
@@ -12,7 +20,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "illuminate/database": "^5.5"
+        "illuminate/database": "^6.*"
     },
     "autoload": {
         "psr-4": {

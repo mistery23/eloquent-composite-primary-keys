@@ -39,5 +39,5 @@ class Product extends Model
 
 Next, you set the `$primaryKey` property on your Eloquent model to an array containing the field names that together form your composite primary key:
 ```php
-protected $primaryKey = array('first_key', 'another_key');
+protected $primaryKey = ['first_key', 'another_key'];
 ```
