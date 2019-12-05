@@ -20,7 +20,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "illuminate/database": "^6.*"
+        "illuminate/database": "6.*"
     },
     "autoload": {
         "psr-4": {
